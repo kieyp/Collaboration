@@ -7,3 +7,17 @@ input {
   align-items: center;
   margin: 15px 0px 10px 10px;
 }
+
+.App {
+  display: inline-block;
+}
+.App1 button {
+  background-color: rgb(75, 254, 75);
+  display: flex;
+  margin-left: 200px;
+}
+nav {
+  padding: 10px;
+  margin: 10px;
+  word-spacing: 10px;
+}
