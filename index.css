@@ -1,0 +1,9 @@
+* {
+  background-color: beige;
+}
+
+input {
+  background-color: rgb(212, 214, 212);
+  align-items: center;
+  margin: 15px 0px 10px 10px;
+}
